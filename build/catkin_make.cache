@@ -1,0 +1,2 @@
+message_send
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/xie/桌面/ros4acados/devel -DCMAKE_INSTALL_PREFIX=/home/xie/桌面/ros4acados/install -G Unix Makefiles
