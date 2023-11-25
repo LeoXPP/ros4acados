@@ -1,0 +1,8 @@
+prefix=/home/xie/桌面/ros4acados/build/devel
+
+Name: message_send
+Description: Description of message_send
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: message_send
+Description: Description of message_send
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

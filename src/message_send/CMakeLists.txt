@@ -216,5 +216,5 @@ add_executable(message_send_pub
 add_dependencies(message_send_pub ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(message_send_pub ${catkin_LIBRARIES}
 )
-target_link_libraries(message_send_pub acados blasfeo hpipm m
+target_link_libraries(message_send_pub acados blasfeo hpipm m test4acados
 )
